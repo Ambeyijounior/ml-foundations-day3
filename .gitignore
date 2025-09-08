@@ -12,3 +12,5 @@ figures/**
 !data/*.db
 !data/sql/
 !data/sql/*.sql
+README_backup_*.md
+notebooks/data/
