@@ -9,3 +9,6 @@ __pycache__/
 data/**
 !data/.gitkeep
 figures/**
+!data/*.db
+!data/sql/
+!data/sql/*.sql
